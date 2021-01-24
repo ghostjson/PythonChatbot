@@ -2,7 +2,8 @@ from chatterbot.trainers import ListTrainer
 
 import json
 
-
+#TrainChatBot class which train data from convos/train.json file.
+#File should be a json array.
 class TrainChatBot:
 
     def __init__(self, chatbot):
