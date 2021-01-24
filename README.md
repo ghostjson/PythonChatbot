@@ -1,5 +1,6 @@
 ## Python Commandline Chatbot
-This chatbot is a wrapper around Chatterbot python library. ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. The language independent design of ChatterBot allows it to be trained to speak any language.
+This chatbot is a wrapper around Chatterbot python library. Everything works in commandline so this chatbot is best work with other application in different languages. 
+ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. The language independent design of ChatterBot allows it to be trained to speak any language.
 
 #### Requirements:
 All the required dependencies are listed in requirements.txt.  
