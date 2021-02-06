@@ -28,6 +28,9 @@ def run(command, attribute):
     elif command == 'end':
         ChatBot.endChat(attribute)
 
+    elif command == 'serve':
+        server.run()
+
     else:
         print("Invalid Command")
         print("Available Commands are [reply, reply_instant, train, end]")
